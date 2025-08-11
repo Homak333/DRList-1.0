@@ -931,7 +931,7 @@ elseif Lib.gameExpansion == "mop" then
         [22703]  = "stun", -- Inferno Effect
         [30283]  = "stun", -- Shadowfury
         [132168] = "stun", -- Shockwave
-        [107570] = "stun", -- Storm Bolt
+        [132169] = "stun", -- Storm Bolt
         [20549]  = "stun", -- War Stomp (Racial)
 
         -- *** Non-controlled Stun Effects ***
